@@ -1,0 +1,33 @@
+{
+  "label":{
+    "menu":{
+      "accountsettings":"Mipangilia ya akaunti",
+      "signout":"Ondoka",
+      "orders":"Oda",
+      "merchant":"Mfanyabiashara",
+      "merchants":"Wafanyabiashara",
+      "categories":"Aina",
+      "supplier":"Mto huduma",
+      "zones":"Maeneo",
+      "distributor":"Msambazaji",
+      "products":"Bidhaa",
+      "product":"Bidhaa",
+      "ads":"Tangazo",
+      "campaigns":"Campaigns",
+      "discounts":"Discounts",
+      "accounts":"Accounts",
+      "agents":"Mawakala",
+      "allorders":"Oda zote",
+      "suppliers":"Watoa huduma",
+      "distributors":"Wasambazaji",
+      "users":"Watumiaji",
+      "salesperson":"Watu wa masoko",
+      "dashboard":"Ubao"
+    },
+    "tooltip": {
+      "settingsandconfigurations": "Settings & Configuration",
+      "progresssynchronising": "Sync ....",
+      "synchronise": "Sync"
+    }
+  }
+}

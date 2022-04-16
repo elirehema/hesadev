@@ -1,0 +1,54 @@
+{
+  "name": "MarketGrid Dashboard",
+  "short_name": "MarketGrid",
+  "description": "## Build Setup",
+  "icons": [
+    {
+      "src": "/hesadev/hesadev/icons/icon_64x64.d91b50.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_120x120.d91b50.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_144x144.d91b50.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_152x152.d91b50.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_192x192.d91b50.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_384x384.d91b50.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hesadev/hesadev/icons/icon_512x512.d91b50.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/hesadev/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ed1e65",
+  "lang": "en",
+  "color_theme": "#ed1e65"
+}
